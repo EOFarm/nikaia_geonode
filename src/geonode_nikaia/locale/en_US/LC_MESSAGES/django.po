@@ -1,0 +1,147 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: athens_geonode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-06 22:05+0300\n"
+"PO-Revision-Date: 2019-05-06 22:13+0300\n"
+"Last-Translator: Angelos Tzotsos <gcpp.kalxas@gmail.com>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+
+#: athens_geonode/templates/site_base.html:21
+msgid "Data"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:22
+msgid "Layers"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:23
+msgid "Documents"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:24
+msgid "Remote Services"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:27
+msgid "Upload Layer"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:29
+msgid "Create Layer"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:31
+msgid "Upload Document"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:34
+msgid "Add Remote Service"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:40
+msgid "Maps"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:41
+msgid "Explore Maps"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:43
+msgid "Create Map"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:49
+#: athens_geonode/templates/site_base.html:85
+msgid "About"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:50
+msgid "People"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:51
+msgid "Groups"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:53
+msgid "Announcements"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:55
+msgid "Invite Users"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:57
+msgid "Add User"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:58
+msgid "Create Group"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:67
+msgid "Contact Us"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:76
+msgid "Tel"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:77
+msgid "Fax"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:78
+msgid "E-mail"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:83
+msgid "Powered by"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:83
+msgid "GeoNode"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:83
+msgid "version"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:84
+msgid "Supported by"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:85
+msgid "Developers"
+msgstr ""
+
+#: athens_geonode/templates/site_base.html:87
+msgid "Language"
+msgstr ""
+
+#: athens_geonode/templates/site_index.html:9
+msgid "<h1>Athens <br/>Geoportal</h1>"
+msgstr ""
+
+#: athens_geonode/templates/site_index.html:12
+msgid "<h3>A catalog of geospatial data of <br/> Municipality of Athens</h3>"
+msgstr ""
+
+#: athens_geonode/templates/site_index.html:14
+msgid "http://docs.geonode.org/en/master/tutorials/users/index.html"
+msgstr ""
+
+#: athens_geonode/templates/site_index.html:14
+msgid "Get Started &raquo;"
+msgstr ""
