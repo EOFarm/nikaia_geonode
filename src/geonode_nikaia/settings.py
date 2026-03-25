@@ -76,6 +76,15 @@ loaders = TEMPLATES[0]["OPTIONS"].get("loaders") or [
 TEMPLATES[0]["OPTIONS"]["loaders"] = loaders
 TEMPLATES[0].pop("APP_DIRS", None)
 
+LANGUAGES = (
+    ('en-us', 'English'),
+    ('el-gr', 'Ελληνικά'),
+)
+
+MAPSTORE_DEFAULT_LANGUAGES = (
+    ('en-us', 'English'),
+    ('el-gr', 'Ελληνικά'),
+)
 
 PROJECT_FIXTURES = [
     # List project-related fixture files here, in the order they should be loaded.
